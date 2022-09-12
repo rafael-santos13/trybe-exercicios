@@ -1,2 +1,3 @@
 # trybe-exercicios
-# Meu repositório de exercícios
+# Meu repositório de modificações
+# Hello brave new world!
