@@ -1,1 +1,2 @@
-# vai tudo dar certo
+# trybe-exercicios
+# Meu repositório de exercícios
