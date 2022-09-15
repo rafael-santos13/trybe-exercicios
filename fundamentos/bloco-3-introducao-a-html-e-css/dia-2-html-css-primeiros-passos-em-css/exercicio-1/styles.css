@@ -1,0 +1,38 @@
+body {
+    font-size: 16px;
+}
+
+h1 {
+    font-size: 65px;
+    font-family: sans-serif;
+    color: orange;
+}
+
+p {
+    font-weight: 600;
+    font-size: 3em;
+}
+
+ul {
+    background-color: blanchedalmond;
+}
+
+.cor-de-fundo {
+    background-color: aquamarine;
+}
+
+#amarelo {
+    font-style: italic;
+    line-height: 300px;
+    background-color: yellow;
+}
+
+#vermelho {
+    text-align: center;
+    background-color: red;
+}
+
+#azul {
+    text-decoration: wavy;
+    background-color: blue;
+}
