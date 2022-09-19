@@ -3,6 +3,7 @@ div:hover {
     border: 3px solid;
 }
 
+
 .cor-primaria:hover{
     border-color: #3C887E;
 }
@@ -14,6 +15,7 @@ div:hover {
 
 .cor-complementar:hover{
     border-color: #A17C6B;
+    width: 50%;
 }
 
 .cor-escura:hover{
@@ -22,4 +24,21 @@ div:hover {
 
 .cor-clara:hover{
     border-color: #E0F2E9;
+}
+
+h3 {
+    font-family: 'Roboto Mono', monospace;
+}
+
+.cor-primaria > h3 {
+    font-style: italic;
+}
+
+.cor-complementar > h3 {
+    font-size: 25px;
+    font-style: italic;
+}
+
+.cor-clara > h3 {
+    font-style: italic;
 }
