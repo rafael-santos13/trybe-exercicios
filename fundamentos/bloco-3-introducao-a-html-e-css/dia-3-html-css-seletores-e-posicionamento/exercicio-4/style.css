@@ -1,4 +1,25 @@
 div:hover {
     width: 40%;
-    border: 3px solid black;
+    border: 3px solid;
+}
+
+.cor-primaria:hover{
+    border-color: #3C887E;
+}
+
+.cor-secundaria:hover{
+    border-color: #5B7B7A;
+
+}
+
+.cor-complementar:hover{
+    border-color: #A17C6B;
+}
+
+.cor-escura:hover{
+    border-color: #CEB5A7;
+}
+
+.cor-clara:hover{
+    border-color: #E0F2E9;
 }
