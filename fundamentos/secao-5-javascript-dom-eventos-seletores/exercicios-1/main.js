@@ -35,8 +35,20 @@ input.addEventListener('input', function(event) {
 // redirecione para alguma página;
 //  - Que tal redirecionar para seu portfólio?
 
+myWebpage.addEventListener('dblclick', function(){
+    window.location.replace('https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5')
+})
+
 // - Crie uma função que, ao passar o mouse sobre 'Meu top 3 do Spotrybefy', altere
 // a cor do mesmo;
+
+myWebpage.addEventListener('mouseover', function(event){
+    event.target.style.color = '#38E54D'
+})
+
+myWebpage.addEventListener('mouseout', function(event){
+    event.target.style.color = 'unset'
+})
 
 // Segue abaixo um exemplo do uso de event.target:
 
