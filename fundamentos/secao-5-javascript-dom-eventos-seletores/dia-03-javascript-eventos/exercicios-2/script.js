@@ -73,9 +73,11 @@ function displayHolidays() {
                 getHolidays[index].style.backgroundColor = backgroundColor;
             } else {
                 getHolidays[index].style.backgroundColor = setNewColor;
-            }
+            };
         }
+
     });
 }
 
 displayHolidays();
+//====================================================================================
